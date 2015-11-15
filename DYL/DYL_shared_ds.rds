@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DYL_shared_ds">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=jelkd2k76d.database.windows.net;Initial Catalog=grg_db</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>882bc679-baf0-47ad-b0f5-fad2cfcae8a5</DataSourceID>
+</RptDataSource>
