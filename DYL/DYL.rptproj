@@ -7,11 +7,20 @@
       <FullPath>DYL_shared_ds.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
+  <DataSets>
+    <ProjectItem>
+      <Name>DYL_shared_dataset.rsd</Name>
+      <FullPath>DYL_shared_dataset.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
   <Reports>
     <ProjectItem>
       <Name>DYL_All.rdl</Name>
       <FullPath>DYL_All.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DYL_Chart.rdl</Name>
+      <FullPath>DYL_Chart.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>

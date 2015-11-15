@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>DYL_shared_ds</DataSourceReference>
+      <CommandText>SELECT minaerobicactivity, complete, sleephours, datetoday, wineglasses
+FROM     dyl.TodoItem</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="minaerobicactivity">
+        <DataField>minaerobicactivity</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="complete">
+        <DataField>complete</DataField>
+        <rd:TypeName>System.Boolean</rd:TypeName>
+      </Field>
+      <Field Name="sleephours">
+        <DataField>sleephours</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="datetoday">
+        <DataField>datetoday</DataField>
+        <rd:TypeName>System.DateTimeOffset</rd:TypeName>
+      </Field>
+      <Field Name="wineglasses">
+        <DataField>wineglasses</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
