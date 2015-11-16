@@ -180,7 +180,7 @@
                       <FontSize>8pt</FontSize>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption>Axis Title</Caption>
+                      <Caption>Hours of Sleep</Caption>
                       <Style>
                         <FontSize>8pt</FontSize>
                       </Style>
@@ -272,7 +272,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>Chart Title</Caption>
+                <Caption>Nightly Hours of Sleep Trend</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontWeight>Bold</FontWeight>
